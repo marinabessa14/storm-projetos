@@ -3,7 +3,7 @@
 Este projeto é uma landing page focada no frontend de uma empresa de projetos, desenvolvida para apresentar de forma clara e atraente os serviços e o portfólio da empresa. Criada com HTML, CSS e o poderoso framework Bootstrap, a página oferece um design moderno e totalmente responsivo, garantindo uma excelente experiência de usuário em qualquer dispositivo.
 
 --------------
-##✨ Sobre o Projeto
+## ✨ Sobre o Projeto
 
 Uma landing page é essencial para qualquer negócio que busca captar a atenção de seus visitantes e convertê-los em leads ou clientes. Este projeto foi construído com o objetivo de:
 
