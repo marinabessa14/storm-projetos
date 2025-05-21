@@ -26,6 +26,7 @@ HTML5: Estrutura fundamental e semântica da página.
 CSS3: Estilização e design visual, garantindo uma estética profissional e moderna.
 
 Bootstrap 5: Framework front-end que agiliza o desenvolvimento responsivo e oferece componentes prontos para uso.
+
 ------------
 
 Link do projeto: https://storm-projeto-6czdnl8f6-marinabessa14.vercel.app/
